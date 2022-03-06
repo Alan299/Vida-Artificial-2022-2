@@ -7,3 +7,4 @@ El tamaño de la cuadricula es 101 x 101
 
 ![Regla 18](./images/ca_rule18_size_n101.png)
 
+![Regla 30](./images/ca_rule30_size_n101.png)
