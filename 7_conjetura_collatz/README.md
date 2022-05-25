@@ -1,7 +1,7 @@
 ### Conjetura de Collatz
 ##### Visualización.
 
-Implentado con python y ![manim](https://github.com/3b1b/manim)
+Implentado con python y [manim](https://github.com/3b1b/manim)
 
 
 
@@ -22,5 +22,7 @@ Ej: número 7 `collatz_7.txt`
 
 #### Ejemplo de video.
 
-Animaciones de ![collatz](./media/output.gif)
+Animaciones de collatz
+
+![](./media/output.gif)
 
